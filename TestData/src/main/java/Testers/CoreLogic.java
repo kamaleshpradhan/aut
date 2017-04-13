@@ -1,4 +1,4 @@
-package testbox;
+package Testers;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
